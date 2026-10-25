@@ -1,0 +1,6 @@
+{
+  "name": "스마트퀵화물 - 1544-9541 24시 전국 퀵서비스 & 화물운송",
+  "description": "서울·경기 수도권 및 전국 365일 24시간 오토바이 퀵, 다마스·라보, 1톤~25톤 용달 화물차, 지방화물 실시간 배차",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

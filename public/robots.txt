@@ -1,0 +1,24 @@
+# robots.txt for 스마트퀵화물 (1544-9541 24시 전국 퀵서비스 & 1톤~25톤 용달 화물차)
+# 공식 검색엔진 크롤러 수집 허용 규칙
+
+User-agent: *
+Allow: /
+
+# 네이버 서치어드바이저 수집로봇 (Yeti)
+User-agent: Yeti
+Allow: /
+
+# 구글 검색로봇 (Googlebot)
+User-agent: Googlebot
+Allow: /
+
+# 다음/카카오 검색로봇 (Daumoa)
+User-agent: Daumoa
+Allow: /
+
+# 빙/마이크로소프트 검색로봇 (Bingbot)
+User-agent: bingbot
+Allow: /
+
+# 사이트맵 및 RSS 색인 위치
+Sitemap: https://smartquick.kr/sitemap.xml
